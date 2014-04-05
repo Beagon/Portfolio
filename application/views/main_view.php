@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Portofolio</title>
+    <title>Portfolio</title>
 
     <link href="<?= base_url() ?>css/<?= $theme ?>/bootstrap.css" rel="stylesheet">
 

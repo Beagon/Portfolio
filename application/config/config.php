@@ -20,7 +20,7 @@ $config['theme'] = 'default';
 | Default: "Project Name"
 |
 */
-$config['title'] = 'Portofolio - Robin Marten Rijkeboer';
+$config['title'] = 'Portfolio - Robin Marten Rijkeboer';
 
 /*
 |--------------------------------------------------------------------------
@@ -36,7 +36,7 @@ $config['title'] = 'Portofolio - Robin Marten Rijkeboer';
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://www.bitbukket.com/portofolio';
+$config['base_url']	= 'http://www.bitbukket.com/portfolio';
 
 /*
 |--------------------------------------------------------------------------
