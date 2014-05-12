@@ -7,7 +7,6 @@ class Admin extends CI_Controller {
 		$this->load->helper('url');
         $this->load->model("admin_model", "Admin_model");
         $this->load->library("pagination");
-        $this->load->library('uploadimage', null, 'Upload_image');
         $data["theme"] = $this->config->item('theme');
         $data["title"] = $this->config->item('title');
 
